@@ -1,2 +1,2 @@
 streamlit
-git+https:https://github.com/bouzidanas/streamlit-reveal-slides
+git+https://github.com/bouzidanas/streamlit-reveal-slides.git
